@@ -1,2 +1,2 @@
 # Landing-Repositery.
-Ability to write and edit Technical Docouments
+Ability To Write And Edit Technical Docouments
